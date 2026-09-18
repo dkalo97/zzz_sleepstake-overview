@@ -94,7 +94,7 @@ lib/
 
 ## Status
 
-Web app in active development, deployed continuously to `zzzstake.kalotech.dev`. No real payment processing yet — the resolution engine runs against real sleep data and a real ledger, but every forfeit today is a recorded intent, not a charge. Native mobile (Capacitor wrapping the same codebase, with a native HealthKit plugin) is planned once the core mechanic is validated against real personal data, not built from day one.
+Web app in active development, deployed continuously to [zzzstake.kalotech.dev](https://zzzstake.kalotech.dev). No real payment processing yet — the resolution engine runs against real sleep data and a real ledger, but every forfeit today is a recorded intent, not a charge. Native mobile (Capacitor wrapping the same codebase, with a native HealthKit plugin) is planned once the core mechanic is validated against real personal data, not built from day one.
 
 ## Research foundation
 
